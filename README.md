@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PythonNex
-- 👀 I’m interested in- Web Development, Python
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m Mukund
+- 👀 I’m interested in- Python and learning new tech
+- 🌱 I’m currently learning Python ( big lie )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me-  / Telegram at @PythonNex / Discord: PythonNex#7345
+- 📫 How to reach me- Ig on @Mukknd 
 
 <!---
 PythonNex/PythonNex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
